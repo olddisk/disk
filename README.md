@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm horrified</h1>
+<h1 align="center">Horrified</h1>
 <h3 align="center">Developer/Security Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=horrified" alt="horrified" /> </p>
