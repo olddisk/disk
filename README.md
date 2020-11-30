@@ -26,3 +26,10 @@ Contact me!
 
 * Discord: sociopath#3710
 * Keybase: secureboot
+
+<br>
+<br>
+
+My Stats!
+----------
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=disk&show_icons=true&theme=dark&show_icons=true" alt="disk" /> </p>
