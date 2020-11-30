@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=disk" alt="disk" /> </p>
+
 Hey, I'm disk!
 ===================
 
