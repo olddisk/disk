@@ -24,7 +24,7 @@ Currently Learning
 Contact me!
 -------------
 
-* Discord: Andromeda#8389
+* Discord: Epsilon#1337
 * Keybase: secureboot
 
 <br>
