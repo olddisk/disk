@@ -12,9 +12,9 @@ Hello, I'm disk (aka spar), a full stack web developer and security researcher!
 Skills and Languages
 -------------
 * Nuxt.js/Vue.js
+* Next.js/React.js
 * Node.js/Express
 * Swift/Objective-C
-* Linux (of course)
 
 Currently Learning
 -------------
@@ -24,8 +24,8 @@ Currently Learning
 Contact me!
 -------------
 
-* Discord: Epsilon#1337
-* Keybase: secureboot
+* Discord: d16Z2DhUBYNxzJDM#1337
+* --Keybase: secureboot--
 
 <br>
 <br>
