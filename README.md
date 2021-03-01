@@ -25,7 +25,6 @@ Contact me!
 -------------
 
 * Discord: d16Z2DhUBYNxzJDM#1337
-* --Keybase: secureboot--
 
 <br>
 <br>
