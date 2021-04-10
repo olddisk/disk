@@ -15,10 +15,11 @@ Skills and Languages
 * Next.js/React.js
 * Node.js/Express
 * Swift/Objective-C
+* C/C++
 
 Currently Learning
 -------------
-* C/C++/Golang/Assembly
+* Golang and Assembly
 * Malware Research/Vulnerability Assessment
 
 Contact me!
