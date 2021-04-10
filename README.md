@@ -24,7 +24,7 @@ Currently Learning
 Contact me!
 -------------
 
-* Discord: d16Z2DhUBYNxzJDM#1337
+* Discord: λ.#1337
 
 <br>
 <br>
