@@ -4,7 +4,7 @@ Hey, I'm disk!
 ===================
 
 
-Hello, I'm disk (aka spar), a full stack web developer and security researcher!
+Hello, I'm disk, a full stack web developer and security researcher!
 
 ----------
 
