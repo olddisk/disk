@@ -1,4 +1,4 @@
-<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=disk" alt="disk" /> </p>
 
 Hey, I'm disk!
@@ -22,8 +22,7 @@ Currently Learning
 -------------
 * Golang and Assembly
 * Malware Research/Vulnerability Assessment
-* TypeScript <i class="programming lang-typescript" />
-* Redis
+* TypeScript
 * GraphQL
 
 Contact me!
