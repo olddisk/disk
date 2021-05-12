@@ -12,7 +12,7 @@ Hello, I'm disk, a full stack web developer and security researcher!
 
 Skills and Languages
 -------------
-* Nuxt.js/Vue.js
+* Nuxt.js/Vue.js ![nuxt](https://simpleicons.org/icons/nuxt-dot-js.svg)
 * Next.js/React.js
 * Node.js/Express
 * Swift/Objective-C
@@ -22,7 +22,7 @@ Currently Learning
 -------------
 * Golang and Assembly
 * Malware Research/Vulnerability Assessment
-* TypeScript
+* TypeScript 
 * GraphQL
 
 Contact me!
