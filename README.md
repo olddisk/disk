@@ -21,6 +21,9 @@ Currently Learning
 -------------
 * Golang and Assembly
 * Malware Research/Vulnerability Assessment
+* TypeScript
+* Redis
+* GraphQL
 
 Contact me!
 -------------
