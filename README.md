@@ -12,7 +12,7 @@ Hello, I'm disk, a full stack web developer and security researcher!
 
 Skills and Languages
 -------------
-* Nuxt.js/Vue.js ![nuxt](https://simpleicons.org/icons/nuxt-dot-js.svg){:height="50%" width="50%"}
+* Nuxt.js/Vue.js 
 * Next.js/React.js
 * Node.js/Express
 * Swift/Objective-C
