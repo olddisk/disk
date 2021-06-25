@@ -28,7 +28,7 @@ Currently Learning
 Contact me!
 -------------
 
-* Discord: λ.#1337 | β.#0777
+* Discord: β.#0777
 
 <br>
 <br>
